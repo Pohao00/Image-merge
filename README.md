@@ -1,7 +1,7 @@
 # ImageMerge
 Image merge
 
-We merge two images to hiden infoamtion and it can be restored to original format.
+We merge two images to hidden information and it can be restored to original format.
 
 ## Installation & Language
 
